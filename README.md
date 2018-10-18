@@ -22,6 +22,7 @@ for planning and navigation problems, like:
    and communicate with other nodes using [Rosjava](https://github.com/rosjava).
 
   ![Image of ROS message](http://persoal.citius.usc.es/adrian.gonzalez/static/octomap_msg.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Fjoctomap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Fjoctomap?ref=badge_shield)
 
 
 ## Build status
@@ -69,3 +70,7 @@ compile 'es.usc.citius.lab:joctomap'
 # Documentation
 - [joctomap-core API](https://gonzalezsieira.github.io/joctomap/api/core/index.html)
 - [joctomap-ros API](https://gonzalezsieira.github.io/joctomap/api/ros/index.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Fjoctomap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Fjoctomap?ref=badge_large)
